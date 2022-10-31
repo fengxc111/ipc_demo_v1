@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "unpipc.h": "c",
-        "config.h": "c"
+        "config.h": "c",
+        "fifo.h": "c"
+    },
+    "files.exclude": {
+        "**/*.o": true
     }
 }
