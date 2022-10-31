@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "unpipc.h": "c",
+        "config.h": "c"
+    }
+}
