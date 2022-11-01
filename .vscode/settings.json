@@ -2,7 +2,9 @@
     "files.associations": {
         "unpipc.h": "c",
         "config.h": "c",
-        "fifo.h": "c"
+        "fifo.h": "c",
+        "getopt.h": "c",
+        "getopt_core.h": "c"
     },
     "files.exclude": {
         "**/*.o": true
