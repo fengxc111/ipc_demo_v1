@@ -8,5 +8,5 @@ main(int argc, char **argv)
     
     // printf("_SC_MQ_OPEN_MAX = %d\n",_SC_MQ_OPEN_MAX);
     // printf("_SC_MQ_PRIO_MAX = %d",_SC_MQ_PRIO_MAX);
-    exit(0);
+    exit(0); 
 }

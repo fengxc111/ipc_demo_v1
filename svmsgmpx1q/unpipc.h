@@ -23,7 +23,6 @@
 #include	<sys/stat.h>	/* for S_xxx file mode constants */
 #include	<unistd.h>
 #include	<sys/wait.h>
-#include 	<getopt.h>
 
 #ifdef	HAVE_MQUEUE_H
 # include	<mqueue.h>		/* Posix message queues */
@@ -488,10 +487,5 @@ Door_create_proc	*Door_server_create(Door_create_proc *);
 CLIENT	*Clnt_create(const char *, u_long, u_long, const char *);
 void	 Clnt_control(CLIENT *, u_int, char *);
 #endif
-
-struct msgbuf {
-	long mytype;
-	char mtext[1];
-};
 
 #endif	/* __unpipc_h */

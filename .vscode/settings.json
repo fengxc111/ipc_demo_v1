@@ -4,7 +4,8 @@
         "config.h": "c",
         "fifo.h": "c",
         "getopt.h": "c",
-        "getopt_core.h": "c"
+        "getopt_core.h": "c",
+        "unistd.h": "c"
     },
     "files.exclude": {
         "**/*.o": true
