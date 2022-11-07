@@ -5,7 +5,11 @@
         "fifo.h": "c",
         "getopt.h": "c",
         "getopt_core.h": "c",
-        "unistd.h": "c"
+        "unistd.h": "c",
+        "pthread_rwlock.h": "c",
+        "signal.h": "c",
+        "stdio.h": "c",
+        "pthreadtypes.h": "c"
     },
     "files.exclude": {
         "**/*.o": true
