@@ -14,7 +14,8 @@ px_ipc_name(const char *name)
 #ifdef	POSIX_IPC_PREFIX
 		dir = POSIX_IPC_PREFIX;		/* from "config.h" */
 #else
-		dir = "/tmp/";				/* default */
+		// dir = "/tmp/";				/* default */
+		dir = "/";
 #endif
 	}
 		/* 4dir must end in a slash */

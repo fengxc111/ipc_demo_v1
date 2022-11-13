@@ -6,6 +6,9 @@ locknone: 	lockmain.o locknone.o
 lockfcntl: 	lockmain.o lockfcntl.o
 	${CC} ${CFLAGS} -o $@ $^ ${LIBS}
 
+lockpxsem:	lockmain.o lockpxsem.o
+	${CC} ${CFLAGS} -o $@ $^ ${LIBS}
+
 lockopen: 	lockmain.o lockopen.o
 	${CC} ${CFLAGS} -o $@ $^ ${LIBS}
 
