@@ -9,7 +9,8 @@
         "pthread_rwlock.h": "c",
         "signal.h": "c",
         "stdio.h": "c",
-        "pthreadtypes.h": "c"
+        "pthreadtypes.h": "c",
+        "type_traits": "c"
     },
     "files.exclude": {
         "**/*.o": true
