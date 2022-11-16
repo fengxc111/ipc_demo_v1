@@ -1,0 +1,23 @@
+
+------ Shared Memory Segments --------
+key        shmid      owner      perms      bytes      nattch     status      
+0x00000000 2          fengxc     600        16384      1          dest         
+0x00000000 6          fengxc     600        8355840    2          dest         
+0x00000000 8          fengxc     600        67108864   2          dest         
+0x00000000 32777      fengxc     600        1572864    2          dest         
+0x00000000 11         fengxc     600        8355840    2          dest         
+0x00000000 14         fengxc     600        524288     2          dest         
+0x00000000 15         fengxc     600        524288     2          dest         
+0x00000000 18         fengxc     600        524288     2          dest         
+0x00000000 19         fengxc     600        524288     2          dest         
+0x00000000 20         fengxc     606        11395950   2          dest         
+0x00000000 21         fengxc     606        11395950   2          dest         
+0x00000000 22         fengxc     600        8077312    2          dest         
+0x00000000 23         fengxc     606        2880000    2          dest         
+0x00000000 24         fengxc     606        2880000    2          dest         
+0x00000000 30         fengxc     600        524288     2          dest         
+0x00000000 31         fengxc     600        16777216   2          dest         
+0x00000000 32         fengxc     600        2883584    2          dest         
+0x00000000 36         fengxc     600        524288     2          dest         
+0x00015623 65580      fengxc     644        1234       0                       
+
