@@ -1,0 +1,31 @@
+14:31:06.711360 IP (tos 0x0, ttl 128, id 34332, offset 0, flags [none], proto ICMP (1), length 60)
+    192.168.56.1 > 192.168.56.101: ICMP echo request, id 1, seq 11728, length 40
+
+14:31:06.711404 IP (tos 0x0, ttl 64, id 37174, offset 0, flags [none], proto ICMP (1), length 60)
+    192.168.56.101 > 192.168.56.1: ICMP echo reply, id 1, seq 11728, length 40
+
+14:31:07.716847 IP (tos 0x0, ttl 128, id 34333, offset 0, flags [none], proto ICMP (1), length 60)
+    192.168.56.1 > 192.168.56.101: ICMP echo request, id 1, seq 11729, length 40
+14:31:07.716890 IP (tos 0x0, ttl 64, id 37396, offset 0, flags [none], proto ICMP (1), length 60)
+    192.168.56.101 > 192.168.56.1: ICMP echo reply, id 1, seq 11729, length 40
+
+14:31:08.728791 IP (tos 0x0, ttl 128, id 34334, offset 0, flags [none], proto ICMP (1), length 60)
+    192.168.56.1 > 192.168.56.101: ICMP echo request, id 1, seq 11730, length 40
+14:31:08.728834 IP (tos 0x0, ttl 64, id 37489, offset 0, flags [none], proto ICMP (1), length 60)
+    192.168.56.101 > 192.168.56.1: ICMP echo reply, id 1, seq 11730, length 40
+
+14:31:09.738218 IP (tos 0x0, ttl 128, id 34335, offset 0, flags [none], proto ICMP (1), length 60)
+    192.168.56.1 > 192.168.56.101: ICMP echo request, id 1, seq 11731, length 40
+
+14:31:09.738259 IP (tos 0x0, ttl 64, id 37535, offset 0, flags [none], proto ICMP (1), length 60)
+    192.168.56.101 > 192.168.56.1: ICMP echo reply, id 1, seq 11731, length 40
+
+14:31:39.627311 IP (tos 0x0, ttl 64, id 41988, offset 0, flags [DF], proto ICMP (1), length 84)
+    192.168.56.101 > 192.168.56.1: ICMP echo request, id 9769, seq 1, length 64
+
+14:31:40.640907 IP (tos 0x0, ttl 64, id 42223, offset 0, flags [DF], proto ICMP (1), length 84)
+    192.168.56.101 > 192.168.56.1: ICMP echo request, id 9769, seq 2, length 64
+
+14:31:41.665265 IP (tos 0x0, ttl 64, id 42409, offset 0, flags [DF], proto ICMP (1), length 84)
+    192.168.56.101 > 192.168.56.1: ICMP echo request, id 9769, seq 3, length 64
+

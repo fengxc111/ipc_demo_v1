@@ -10,7 +10,8 @@
         "signal.h": "c",
         "stdio.h": "c",
         "pthreadtypes.h": "c",
-        "type_traits": "c"
+        "type_traits": "c",
+        "square.h": "c"
     },
     "files.exclude": {
         "**/*.o": true
